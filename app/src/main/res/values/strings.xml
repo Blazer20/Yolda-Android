@@ -1,0 +1,82 @@
+<resources>
+    <string name="web_client_id">686760703181-qo9ogupk1tc38evipnrqbdoh9nmehpqv.apps.googleusercontent.com</string>
+    <string name="app_name">Yo\'lda</string>
+    <string name="image_description">Image</string>
+    <string name="icon">Icon</string>
+    <string name="there_is_no_result">There is No Result!</string>
+
+    // OnBoarding Screen
+    <string name="on_boarding_skip_button_text">Skip ></string>
+    <string name="on_boarding_next_button_text">Next</string>
+    <string name="common_on_boarding_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    // OnBoarding One Screen
+    <string name="on_boarding_one_text_title">Landmarks on the map</string>
+
+    // OnBoarding Two Screen
+    <string name="on_boarding_two_text_title">Filling station rating</string>
+
+    // OnBoarding Three Screen
+    <string name="on_boarding_three_text_title">Wide filter</string>
+
+    // Authentication Screen
+    <string name="auth_title">Authorization</string>
+    <string name="auth_text">Enter your phone number</string>
+    <string name="auth_phone_hint">Phone number</string>
+    <string name="auth_register_by">Or register by</string>
+    <string name="auth_continue_text_button">Continue</string>
+    <string name="auth_annotation">By continuing you’re indicating that you accept\nour Terms of Use and our Privacy Policy</string>
+    
+    // Code Confirmation Screen
+    <string name="code_confirmation_label">Login</string>
+    <string name="code_confirmation_title">Enter code</string>
+    <string name="code_confirmation_text">Please, enter the code sent to\n+998 90 *** ** **</string>
+    <string name="code_confirmation_question">Didn’t get a code? Send again</string>
+
+    // Fuel Station Screen
+    <string name="fuel_stations_label">Fuel Stations</string>
+    <string name="best_price_label">Best prices at %1$s</string>
+    <string name="filter_title">Filter</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="fuel">Fuel</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="electro">Electro</string>
+    <string name="diesel">Diesel</string>
+
+    // Settings Screen
+    <string name="settings_label">Settings</string>
+    <string name="language_title">Language</string>
+    <string name="dark_theme_title">Dark Theme</string>
+    <string name="tech_support_title">Tech Support</string>
+    <string name="about_app_title">About App</string>
+
+    // Language Screen
+    <string name="uzbek_language">O’zbek</string>
+    <string name="russian_language">Русский</string>
+    <string name="english_language">English</string>
+    <string name="back">Back</string>
+    
+    // About App Screen
+    <string name="app_version">v %1$s</string>
+    <string name="give_a_feedback">Give a feedback</string>
+    <string name="rate_us_at_google_store">Rate us on Google Store</string>
+    <string name="follow_us">Follow us</string>
+
+    // Filter Screen
+    <string name="filters_screen_title">Filters</string>
+    <string name="filters_screen_reset">Reset</string>
+    <string name="filters_screen_sort_price_by">Sort price by</string>
+    <string name="electro_type">Electro Type</string>
+    <string name="power">Power</string>
+    <string name="none">None</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="azs">AZS</string>
+    <string name="last_updated">Last updated</string>
+    <string name="by_distance">By distance</string>
+    <string name="by_popularity">By popularity</string>
+    <string name="filters_apply">Apply</string>
+
+
+</resources>

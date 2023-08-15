@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "686760703181",
+    "project_id": "ufuel-fb564",
+    "storage_bucket": "ufuel-fb564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686760703181:android:3210822dde2b9b02b42584",
+        "android_client_info": {
+          "package_name": "com.yolda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686760703181-mr8b2ko6cs0m72h1a6599uiq24u6eg7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yolda",
+            "certificate_hash": "fdebc7eb4b26ab7d0963abe15f943ceb5dcf3d7e"
+          }
+        },
+        {
+          "client_id": "686760703181-qo9ogupk1tc38evipnrqbdoh9nmehpqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxPVDimuj4BkVQ-3Qm6NUZq6f3brkAHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686760703181-8fqn9v12r447cq8mecre5g356veknm5u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686760703181-1rmofumd5uvgsg86keo7r4recfrnso52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Yolda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
